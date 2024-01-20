@@ -1,4 +1,6 @@
-"#Task Tracker App with Angular"
+#Task Tracker App with Angular
+
+
 Overview
 This is a simple Task Tracker web application built using Angular. It allows users to add, delete, and track the status of tasks. The application utilizes Angular for the frontend and is designed to provide a clean and intuitive interface for managing tasks.
 
@@ -9,7 +11,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone 
+git clone https://github.com/Guna-07/Task-tracker.git
 Navigate to the Project:
 
 bash
