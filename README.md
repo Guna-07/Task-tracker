@@ -1,4 +1,4 @@
-#Task Tracker App with Angular
+#Task Tracker using Angular
 
 
 Overview
